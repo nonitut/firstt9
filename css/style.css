@@ -1,0 +1,20 @@
+body{
+    background: rgb(255, 251, 252);
+}
+
+h1{
+    color: rgb(0, 26, 255);
+}
+
+.mytext{
+    color: cadetblue;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 26, 255);
+}
+
+a:hover{
+    color: rgb(92, 108, 251);
+}
